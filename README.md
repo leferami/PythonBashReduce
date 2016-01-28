@@ -10,8 +10,10 @@ time ./br -m "localhost" -r /home/hjupiter/bashreduce/srStem.py -i /home/hjupite
 
 
 ##############		Proceso I/O-BOUND  (archivo grande)		##############
-
-
+time ./br -r /home/kl/Documents/SistemasOperativos/proyecto2doParcial/bashreduce/srStop.py -m "localhost localhost localhost localhost" -i /home/kl/Documents/SistemasOperativos/proyecto2doParcial/bashreduce/archivoGrande.txt -o /home/kl/Documents/SistemasOperativos/proyecto2doParcial/bashreduce/salida.csv
+"localhost"    	== >> Indica cuantos core se ejecutan
+-i  			== >> Indica que es un archivo de entrada.
+-o  			== >> Indica que es un archivo de salida.
 
 ##############		Proceso CPU-BOUND		##############
 
