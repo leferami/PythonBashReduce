@@ -2,11 +2,7 @@
 Proyecto Sistema Operativo 
 
 ##############		Proceso I/O-BOUND  (archivo pequeño)		##############
-time ./br -m "localhost" -r /home/hjupiter/bashreduce/srStem.py -i /home/hjupiter/bashreduce/archivoPequeño.txt -o /home/hjupiter/bashreduce/salida.cvs
 
-"localhost"    	== >> Indica cuantos core se ejecutan
--i  			== >> Indica que es un archivo de entrada.
--o  			== >> Indica que es un archivo de salida.
 
 
 ##############		Proceso I/O-BOUND  (archivo grande)		##############
