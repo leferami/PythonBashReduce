@@ -1,0 +1,2 @@
+# PythonBashReduce
+Proyecto Sistema Operativo 
